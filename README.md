@@ -22,4 +22,4 @@ Then, I manipulated and analyzed the data, breaking it down into subgroups and c
 
 Finally, I visualized the results of my analysis with matplotlib, seaborn, and wordcloud.
 
-## Link to full blog post: https://nycdatascience.com/blog/student-works/does-apples-fixed-iphone-release-schedule-hurt-its-customer-satisfaction/
+#### Link to full blog post: https://nycdatascience.com/blog/student-works/does-apples-fixed-iphone-release-schedule-hurt-its-customer-satisfaction/

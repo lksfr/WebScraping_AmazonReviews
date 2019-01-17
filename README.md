@@ -12,7 +12,7 @@ I chose to scrape amazon.co.uk for several reasons. Firstly, Europe, besides Chi
 
 In conducting my research, I chose to exclusively focus on reviews for the iPhone X from November 2017 to September 2018 to only gather reviews for the newest iPhone at that point in time. Future research could apply the same concept to older iPhones.
 
-## Work Flow
+## Workflow
 
 I used Selenium to scrape amazon.co.uk, mainly because of its flexibility in navigating between different websites.
 
